@@ -17,6 +17,9 @@ Powerpoint
 Research Objective
 
 #1 Find out which Genre has the highest grossing sales
+
 #2 Find out which region has the highest chance for quick and widespread market penetration
+
 #3 Understand and look for possible metrics which would affect sales
-#4 Come up with a pilot program for a possible game genre and region and on which console
+
+#4 Come up with a pilot program for a 1) possible game genre and 2) region and on which 3) console
